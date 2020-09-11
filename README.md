@@ -1,2 +1,2 @@
-# two-rectangles
-this is based on topics = colllision ,colorchange,different sprites.
+# p5.play-boilerplate
+Boiler plate for p5.play
